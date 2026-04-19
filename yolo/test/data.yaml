@@ -1,0 +1,9 @@
+path: C:\Users\Kenny\Desktop\projects\ML-AI\Q2\fruit_ripeness_classification\yolo_model\dataset
+train: images/train
+val: images/test
+
+names:
+  0: Raw_Banana
+  1: Raw_Mango
+  2: Ripe_Banana
+  3: Ripe_Mango

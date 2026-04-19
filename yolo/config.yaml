@@ -1,0 +1,8 @@
+# banana_mango.yaml
+path: C:\Users\Kenny\Desktop\projects\ML-AI\Q2\fruit_ripeness_classification\yolo_model\dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names: ['Raw_Banana', 'Raw_Mango', 'Ripe_Banana', 'Ripe_Mango']
